@@ -1,40 +1,40 @@
 {
- "version": "0.1",
- "code": 1,
+ "version": "0.2",
+ "code": 2,
  "date": "2026-10-27",
  "page": "https://daniel098962.github.io/tidehouse/",
  "notes": {
-  "zh-TW": "首次發布：8 位角色、21 套造型、14 個場景。App 內建 1 位角色與她的房間，其他內容在主畫面的「內容下載」選了再下載。",
-  "en": "First release: 8 characters, 21 outfits and 14 places. The app includes one character and her room; download the rest from \"Downloads\" on the home screen."
+  "zh-TW": "授權修正：依各素材的授權條款重新查核，拿掉不允許散布的說話手勢與舞蹈，劇情的說話手勢改用 Kevin Iglesias 的動作；「設定 → 一般」新增「開放原始碼授權」。已下載的角色在「內容下載」會標「有新版」，勾起來更新即可。",
+  "en": "License fixes: after reviewing every asset's license, speech gestures and dances that may not be redistributed were removed, and story speech gestures now use Kevin Iglesias' motion. New \"Open-source licenses\" page under Settings → General. Downloaded characters show \"Update available\" in Downloads; select them to update."
  },
  "downloads": {
   "android": {
    "file": "TideHouse.apk",
    "url": "https://github.com/daniel098962/tidehouse/releases/latest/download/TideHouse.apk",
-   "size": 234578565,
-   "size_text": "224 MB",
-   "sha256": "4d7a117241678941b15f5c712d6f61a86995aedbc93c02e806cb9f4a9b22c2d5"
+   "size": 224259049,
+   "size_text": "214 MB",
+   "sha256": "1582afb6b0c134a39bd26a351849334d5f325b2aed718014f845eed8cebd835b"
   },
   "windows": {
    "file": "TideHouse_x64-setup.exe",
    "url": "https://github.com/daniel098962/tidehouse/releases/latest/download/TideHouse_x64-setup.exe",
-   "size": 156248189,
-   "size_text": "149 MB",
-   "sha256": "6c71ab7ad0105ee749caa3a589f6b19d96051fc0fd29e8b33c54d50c124d6576"
+   "size": 149047732,
+   "size_text": "142 MB",
+   "sha256": "9c1e26ac1a42da05e392c64633fbb17e146e764120eafa11135824d5a6411de0"
   },
   "windows_portable": {
    "file": "TideHouse_x64_portable.exe",
    "url": "https://github.com/daniel098962/tidehouse/releases/latest/download/TideHouse_x64_portable.exe",
-   "size": 416898488,
-   "size_text": "398 MB",
-   "sha256": "68e6d5de7a62dbf1d232eb3da2be12f9fc4ab095fb7280f979e141dfb42fe495"
+   "size": 397420904,
+   "size_text": "379 MB",
+   "sha256": "c0c0bce62c04153e5786485fe4d17516d36086acd2337f647fcb771277c0074c"
   },
   "mac": {
    "file": "TideHouse_universal.dmg",
    "url": "https://github.com/daniel098962/tidehouse/releases/latest/download/TideHouse_universal.dmg",
-   "size": 223533632,
-   "size_text": "213 MB",
-   "sha256": "48d1d18e94fb4a6bbe3ddd74f4ec41eba546949cd8bb96448eeff66a1c1b249d"
+   "size": 213343231,
+   "size_text": "203 MB",
+   "sha256": "a094bb6ab8c4020c2031d4797ac8ef0c205f352308255ee9cf75ab2893cbd51d"
   }
  },
  "feedback": ""
